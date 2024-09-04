@@ -1,0 +1,21 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "main": "server.test.js.swp",
+  "scripts": {
+    "test" : "jest"
+  }  
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my941/github-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/my941/github-action/issues"
+  },
+  "homepage": "https://github.com/my941/github-action#readme",
+  "description": ""
+}
